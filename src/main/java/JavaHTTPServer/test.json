@@ -1,0 +1,3704 @@
+[
+  {
+    "id": "account.profile.image.url",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "account.profile.logo.url",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "accountInfo.source",
+    "type": 2,
+    "propertyValue": {
+      "value": "LE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "coapp.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "coapp.settings",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.SSLEncryption",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.accessBlackList",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "aW50ZWdyYXRpb24uZmVhdHVyZXM=",
+        "aW50ZWdyYXRpb24uc2NyaXB0cw=="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.accessWhiteList",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "dWkuc2Vzc2lvbg==",
+        "dWkucG9pbnRlcnM=",
+        "dWkud2lkZ2V0cy5idXR0b24=",
+        "dWkud2lkZ2V0cy5kaWFsb2c=",
+        "dWkud2lkZ2V0cy5jaGF0",
+        "c2Vzc2lvbi5pbml0aWF0aW9u",
+        "c3lzdGVtLm1haWw=",
+        "c3lzdGVtLmFkdmFuY2VkLmRpc2FibGVXZWJzb2NrZXRz",
+        "aW52aXRhdGlvbi5tYWls",
+        "aW52aXRhdGlvbi5nZW5lcmFs",
+        "YWdlbnQuY29uc29sZQ==",
+        "c2Vzc2lvbi5nZW5lcmFs",
+        "aW50ZWdyYXRpb24=",
+        "c2V0dXA=",
+        "YWNjb3VudC51c2Vycw==",
+        "YWNjb3VudC5jb250YWN0"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.alwaysSecure",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.anonymizeIP",
+    "type": 1,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.apiSecret",
+    "type": 2,
+    "propertyValue": {
+      "value": "cXlvbml3alhFbGZvbFluQkVLT3VsLUNRdWRDdGN6S0VvbTBmdjIxcmRlYz0="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.checkAgentAvailability",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.createUnauthenticatedTickets",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.enableBeta",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.enableOAuth",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.enableOpenId",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.expirationDate",
+    "type": 2,
+    "propertyValue": {
+      "value": "MjA4My0wMS0wMQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.homeTiles",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "YWdlbnRz"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.invitation",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "bGluaw==",
+        "ZW1haWw="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.logChat",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.maxLoginAttempts",
+    "type": 1,
+    "propertyValue": {
+      "value": 10
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.minimumPasswordLength",
+    "type": 1,
+    "propertyValue": {
+      "value": 6
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.minimumServiceIdLength",
+    "type": 1,
+    "propertyValue": {
+      "value": 6
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.poweredBy",
+    "type": 2,
+    "propertyValue": {
+      "value": "cG93ZXJlZGJ5LWxpZ2h0"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.restrictConcurrentSessions",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.restrictToDomains",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.serverSideVisitorList",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.showGeoLocation",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.showJobOffer",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.smtpAuthenticationLog",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.socialBrowsing",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.trackingAPI",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZGlzYWJsZWQ="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.trackingAnonymous",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.urlBlacklist",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.urlWhitelist",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.features.whiteLabel",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.feedback",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.feedback.data",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "c2NyZWVuc2hvdA==",
+        "c2NyZWVuUmVzb2x1dGlvbg==",
+        "dmlzaWJsZUJyb3dzZXJBcmVh",
+        "dXNlckFnZW50",
+        "Y2xpZW50TGFuZ3VhZ2U=",
+        "Y29va2llRW5hYmxlZA==",
+        "dXJs",
+        "c3luY2hVcmw=",
+        "c3luY2hQcm9maWxl",
+        "c3luY2hOVXNlcnM=",
+        "c3luY2hTZXNzaW9uUGF1c2Vk",
+        "c3luY2hTZXNzaW9uTG9ja2Vk",
+        "c3luY2hUaWNrZXQ=",
+        "c3luY2hQcm94eUhvc3Q=",
+        "c3luY2hCYXNl",
+        "c3luY2hJc0RlYnVn",
+        "c3luY2hDaGF0RW5hYmxlZA==",
+        "c3luY2hUZW5hbnRJZA==",
+        "c3luY2hVc2VySWQ=",
+        "c3luY2hVc2VyTmFtZQ=="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.feedback.show",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.roles",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "eyJuYW1lIjoiYWRtaW4iLCJwZXJtaXNzaW9ucyI6WyJ0aWNrZXQ6Y3JlYXRlIiwidGlja2V0OmpvaW4iLCJjb25zb2xlIiwiY29uZmlnOmVkaXQiLCJjb25maWc6ZG9jczp2aWV3Iiwic2VydmljZUlkOmZpbmQiLCJzeXN0ZW06dXBkYXRlIiwic3lzdGVtOnRlc3QiXX0=",
+        "eyJuYW1lIjoiYWdlbnQiLCJwZXJtaXNzaW9ucyI6WyJ0aWNrZXQ6Y3JlYXRlIiwidGlja2V0OmpvaW4iLCJjb25zb2xlIiwic2VydmljZUlkOmZpbmQiXX0=",
+        "eyJuYW1lIjoicHJlc2VudGVyIiwicGVybWlzc2lvbnMiOlsidGlja2V0OmNyZWF0ZSIsInRpY2tldDpqb2luIl19",
+        "eyJuYW1lIjoiZ3Vlc3QiLCJwZXJtaXNzaW9ucyI6WyJ0aWNrZXQ6am9pbiJdfQ=="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.account.users",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.agentSessionExitOperation",
+    "type": 2,
+    "propertyValue": {
+      "value": "dXNlRW5kVXJs"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.aliasReadOnly",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.chooseAgentProfile",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.defaultSupportProfile",
+    "type": 2,
+    "propertyValue": {
+      "value": "cC1pbnRlcmFjdGl2ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.extraFields",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.openInNewWindow",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.quickstartAction",
+    "type": 2,
+    "propertyValue": {
+      "value": "cmVjZWl2ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.console.showAgentNumber",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.shortcuts",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.showElements",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.sounds",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.sounds.incomingVisitor",
+    "type": 2,
+    "propertyValue": {
+      "value": "c2hvcC1iZWxsLm1wMw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.agent.sounds.supportRequest",
+    "type": 2,
+    "propertyValue": {
+      "value": "b2xkLXBob25lLm1wMw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.annotations",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.coBrowseDependsOnLpChat",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.cobrowseEngine",
+    "type": 2,
+    "propertyValue": {
+      "value": "cHJveHlsZXNz"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.enableCsatSurvey",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.enableMobileOverlay",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.handlePDF",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZG93bmxvYWQ="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.resizeAgentsScreen",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.showTelepointerHint",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.uploadPDF",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.experimental.useConfigStorage",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.keystore",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.keystore.managerPW",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.keystore.path",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZXRjL2NsaWVudC5qa3M="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.keystore.storePW",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.keystore.type",
+    "type": 2,
+    "propertyValue": {
+      "value": "SktT"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.protocols",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.httponly.url",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.enableLiveButton",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.hasCustomUI",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.noconflict",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.realtimeTracking",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.showJobOffer",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.startDelay",
+    "type": 1,
+    "propertyValue": {
+      "value": 25
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.features.trustedEmails",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.mail",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.scripts",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.scripts.extractFullname",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZnVuY3Rpb24gZ2V0RnVsbE5hbWUoKSB7CiByZXR1cm4gbnVsbDsKfQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.scripts.onStateGet",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZnVuY3Rpb24gcHJvY2Vzc1N0YXRlKHN0YXRlKSB7fQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.scripts.onStateSet",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZnVuY3Rpb24gcHJvY2Vzc1N0YXRlKHN0YXRlKSB7fQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.scripts.onSynchroniteLoad",
+    "type": 2,
+    "propertyValue": {
+      "value": "Ly8gU2V0IEN1c3RvbSBWYXJpYWJsZXMgSGVyZQovLyBzeW5jaHJvbml0ZS5zZXRDdXN0b21WYXIoImN1c3RvbWVySUQiLCAxMjM0NTY3ODkpOw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.serviceKey",
+    "type": 2,
+    "propertyValue": {
+      "value": "LQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.termsOfService",
+    "type": 2,
+    "propertyValue": {
+      "value": "aGlkZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.integration.termsOfServiceURL",
+    "type": 2,
+    "propertyValue": {
+      "value": "JHtzZXJ2ZXJVcmx9L3Rlcm1z"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.general",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.general.guestLink",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZGlyZWN0"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.general.guestProfile",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZW5nYWdl"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.mail",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.mail.body",
+    "type": 2,
+    "propertyValue": {
+      "value": "SGFsbG8gJHtyZWNpcGllbnROYW1lIXJlY2lwaWVudEFkZHJlc3N9LAoKJHtzZW5kZXJOYW1lfSBoYXQgU2llIHp1IGVpbmVyIGdlbWVpbnNhbWVuIE9ubGluZS1TaXR6dW5nIGVpbmdlbGFkZW4uCgogPCNpZiAob3B0aW9uYWxNZXNzYWdlKT9oYXNfY29udGVudD4KTmFjaHJpY2h0IHZvbiAke3NlbmRlck5hbWV9Ogoke29wdGlvbmFsTWVzc2FnZX0KCjwvI2lmPgpLbGlja2VuIFNpZSBhdWYgZGVuIGZvbGdlbmRlbiBMaW5rLCB1bSBhbiBkZW0gT25saW5lLU1lZXRpbmcgdGVpbHp1bmVobWVuOgoke3Nlc3Npb25VUkx9CgpWaWVsZSBHcsO8w59lCiR7c2VuZGVyTmFtZX0KCgoKKlRISVMgTUVTU0FHRSBXQVMgQ1JFQVRFRCBBVVRPTUFUSUNBTExZLiBQTEVBU0UgRE8gTk9UIFJFUExZLio="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.invitation.mail.subject",
+    "type": 2,
+    "propertyValue": {
+      "value": "R3VpZGVkIEN1c3RvbWVyIEV4cGVyaWVuY2UgbWl0IFN5bmNocm9uaXRl"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.isCoBrowseEnabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.liveperson",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.liveperson.addLPChatUrl",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.liveperson.defaultToLPlogin",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.liveperson.livepersonHandover",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.liveperson.lpPluginActive",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.meta",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.meta.lastSchemaUpdate",
+    "type": 1,
+    "propertyValue": {
+      "value": 0
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.proxyless",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.proxyless.slaveAlwaysHTTPS",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.proxyless.stickyMenubar",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.chatEnabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.forceLocale",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.protectAreasByClassName",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.protectAreasById",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.protectedFields",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.rewriteTargets",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.showInvitationDialogOnStart",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.showLockButton",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.startURL",
+    "type": 2,
+    "propertyValue": {
+      "value": "aHR0cHM6Ly9lbi53aWtpcGVkaWEub3Jn"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.general.synchronizeFocus",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.initiation",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.initiation.skipEnterDetailsWhenVisitorIsKnown",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.initiation.skipVisitorConfirmation",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.initiation.visitorNameRequired",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.security",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.security.requireAuthorization",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.session.security.ticketLength",
+    "type": 1,
+    "propertyValue": {
+      "value": 16
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.setup",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.setup.code",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.addUniqueIDs",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "cA==",
+        "ZGl2",
+        "c3Bhbg==",
+        "YQ==",
+        "aDE=",
+        "aDI=",
+        "aDM=",
+        "Y2VudGVy",
+        "dGFibGU=",
+        "dHI=",
+        "dGQ=",
+        "dGg=",
+        "aW1n",
+        "cHJl",
+        "Yg==",
+        "aQ==",
+        "bGk=",
+        "dWw=",
+        "bGFiZWw="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.addViaHeaders",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.authCache",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.continuationTimeout",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.detectRandomIds",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.disableMouseMove",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.disableWebsockets",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.enableOnBlurFallback",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.executeAfterPageLoad",
+    "type": 2,
+    "propertyValue": {
+      "value": "Ly8gd3JpdGUgY29kZSBoZXJlIHRoYXQgZ2V0cyBleGVjdXRlZCB3aGVuIHN5bmNocm9uaXRlIGxvYWRzIHRoZSB0YXJnZXQgcGFnZS4="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.filterPseudoClass",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.forceCachedResponse",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.homeURI",
+    "type": 2,
+    "propertyValue": {
+      "value": "L2hvbWU="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.hoverEmulation",
+    "type": 2,
+    "propertyValue": {
+      "value": "b24="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.ignoreIds",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.isDragEnabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.mouseMoveUseParent",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.mousedownChangesFocus",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.nativeLocationGetter",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.overrideDate",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.parseExternalScriptsOnClient",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.parseInlineScriptsOnClient",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.proxifyForms",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.rejectRequestCookies",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "SlNFU1NJT05JRA==",
+        "UEhQU0VTU0lE",
+        "QVNQU0VTU0lPTklE"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.renewCobrowseSessionId",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.restoreDocumentCookies",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.secureCookieRemoval",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.sessionTimeout",
+    "type": 1,
+    "propertyValue": {
+      "value": 240
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.showPausePage",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.showPostURLS",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.startPaused",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.strictPageVerification",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.synchroniteCookieSecure",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.trackErrors",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.useClasses",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.useXUACompatible",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.advanced.userAgent",
+    "type": 2,
+    "propertyValue": {
+      "value": "c3RhdGlj"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.addScriptParameter",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.autorespond",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "eyJpbiI6Ii9mYXZpY29uLmljbyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvZmF2aWNvbi5pY28iLCJlbmFibGVkIjp0cnVlfQ==",
+        "eyJpbiI6Ii9ndWpBZC5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvbm9vcC5qcyIsImVuYWJsZWQiOnRydWV9",
+        "eyJpbiI6Ii9qcy9wbHVzb25lLmpzIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC9zY20vZ29vZ2xlLXBsdXMtb25lLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OlxcL2pzXFwvYWxsXFwuanN8Y29ubmVjdChcXC58LS0pZmFjZWJvb2soXFwufC0tKW5ldC4qXFwvLipcXC9hbGxcXC5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvc2NtL2ZhY2Vib29rLWJ1dHRvbi5qcyIsImVuYWJsZWQiOnRydWV9",
+        "eyJpbiI6InJlZ2V4OmNvZGUoXFwufC0tKWV0cmFja2VyKFxcLnwtLSljb20uKy9hLmpzIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC90cmFja2VyL2V0cmFja2VyLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OnNjcmlwdHMoXFwufC0tKXBzeW1hKFxcLnwtLSljb20uKlxcL2xheWVyXFwucGhwIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC9ub29wLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6Ii9nYS5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvdHJhY2tlci9nb29nbGUtYW5hbHl0aWNzLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6Ii9wYWdlYWQvY29udmVyc2lvbi5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvYWRzL2dvb2dsZS1jb252ZXJzaW9uLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6Ii9hc3NldC9uZXd0ZW50aW9uLm1pbi5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvdHJhY2tlci9uZXd0ZW50aW9uLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OlxcL3ZlcnNpY2hlcnVuZ2VuXFwvbWVkaWFcXC9jbXNfbWVkaWVuXFwvanNcXC90cmFja2VyXFwvd2VidHJla2suKlxcLihqc3x0eHQpIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC90cmFja2VyL3dlYnRyZWtrLXEzLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6Ii94L2hlaWFzLnJldC5weC5mci8iLCJvdXQiOiJjbGFzc3BhdGg6L2F1dG9yZXNwb25kL2Fkcy9oZWlhcy5odG1sIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6Ii94L2hlaWFzLmFzeW5jL3AubWluLmpzIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC9ub29wLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OlxcL2NoYXRza2luc1xcL2xhdW5jaFxcL2lucUNoYXRMYXVuY2hbXFxkXStcXC5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvc2NtL3RvdWNoY29tbWVyY2UtY2hhdC5qcyIsImVuYWJsZWQiOnRydWV9",
+        "eyJpbiI6InJlZ2V4OmV0cmFja2VyLisvdC5qcyIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvdHJhY2tlci9ldHJhY2tlci5qcyIsImVuYWJsZWQiOnRydWV9",
+        "eyJpbiI6Ii9zX2NvZGUuanMiLCJvdXQiOiJjbGFzc3BhdGg6L2F1dG9yZXNwb25kL3RyYWNrZXIvYWRvYmUtc2l0ZWNhdGFseXN0LmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OmZhY2Vib29rKFxcLnwtLSljb20uKlxcL3BsdWdpbnNcXC9saWtlXFwucGhwIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC9zY20vZmFjZWJvb2stbGlrZS5odG1sIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OmRvdWJsZWNsaWNrKFxcLnwtLSluZXQuKlxcL2FjdGl2aXR5aSIsIm91dCI6ImNsYXNzcGF0aDovYXV0b3Jlc3BvbmQvbm9vcC5odG1sIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6InJlZ2V4OmludGVsbGlhZChcXC58LS0pZGUuKlxcL2NsXFwvIiwib3V0IjoiY2xhc3NwYXRoOi9hdXRvcmVzcG9uZC9ub29wLmpzIiwiZW5hYmxlZCI6dHJ1ZX0=",
+        "eyJpbiI6ImdtYWRzLm5ldC9wY3QiLCJvdXQiOiJjbGFzc3BhdGg6L2F1dG9yZXNwb25kL25vb3AuaHRtbCIsImVuYWJsZWQiOnRydWV9"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.ignoreParamsForCacheKeyCalculation",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "cHJldmVudENhY2hl",
+        "Xw==",
+        "cHNldWRvUGFyYW0="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.postAllowedParams",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.postDeniedParams",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "cGFzc3dvcmQ="
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.proxifyEverything",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.proxifyImages",
+    "type": 2,
+    "propertyValue": {
+      "value": "dHJ1ZQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.searchReplaceScripts",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.trustAllCertificates",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.system.proxy.urlfilter",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.SECURITY_HEADER",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.SECURITY_INFORMATION",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.SHOW_SERVICE_NUMBER_HEADER",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.SHOW_SERVICE_NUMBER_INFO",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.SHOW_SERVICE_TITLE",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.text.STANDBY",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.dropdown-link-hover-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzAxNjZBMg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.font-family-base",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGZvbnQtZmFtaWx5LXNhbnMtc2VyaWY="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.headings-font-family",
+    "type": 2,
+    "propertyValue": {
+      "value": "aW5oZXJpdA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.input-border-focus",
+    "type": 2,
+    "propertyValue": {
+      "value": "cmdiKDgyLDE2OCwyMzYp"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzFmNjNhZA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-border",
+    "type": 2,
+    "propertyValue": {
+      "value": "QG5hdmJhci1kZWZhdWx0LWJn"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-brand-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "QG5hdmJhci1kZWZhdWx0LWxpbmstY29sb3I="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQG5hdmJhci1kZWZhdWx0LWJnLCAjMjIyLCAjRUVFLCA3MCUp"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-link-active-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "QG5hdmJhci1kZWZhdWx0LWJn"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-link-active-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "QG5hdmJhci1kZWZhdWx0LWxpbmstaG92ZXItY29sb3I="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-link-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQG5hdmJhci1kZWZhdWx0LWJnLCAjMjIyLCAjRUVFLCA3MCUp"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-link-hover-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "cmdiYSgyNTUsIDI1NSwgMjU1LCAwLjEp"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-default-link-hover-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "I0ZGRg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-input-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "bGlnaHRlbihAbmF2YmFyLWRlZmF1bHQtYmcsIDI1JSk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-input-border",
+    "type": 2,
+    "propertyValue": {
+      "value": "QG5hdmJhci1kZWZhdWx0LWJn"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-input-color-placeholder",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZGFya2VyKEBuYXZiYXItaW5wdXQtYmcsIDUwJSk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-input-text",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQG5hdmJhci1pbnB1dC1iZyk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.navbar-refresh-button-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzAwMA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.navbar.progress-bar-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "I0Y2OEExRg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.pointers",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.pointers.telepointer",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "eyJjdXJzb3IiOiJ5ZWxsb3ciLCJjb2xvciI6IiNGRkVCNTMifQ==",
+        "eyJjdXJzb3IiOiJ3aGl0ZSIsImNvbG9yIjoiI0NDQyJ9",
+        "eyJjdXJzb3IiOiJwaW5rIiwiY29sb3IiOiIjRjlCNUZGIn0=",
+        "eyJjdXJzb3IiOiJ0dXJxdW9pc2UiLCJjb2xvciI6IiM0MUZGRkEifQ==",
+        "eyJjdXJzb3IiOiJncmVlbiIsImNvbG9yIjoiIzU4RkY0MyJ9"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.pointers.useCustom",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZmFsc2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.clickBlurRadius",
+    "type": 1,
+    "propertyValue": {
+      "value": 10
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.companyLogo",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.customizedTexts",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.docTitle",
+    "type": 2,
+    "propertyValue": {
+      "value": "Q28tQnJvd3Npbmc6ICR7dGl0bGV9"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.favIcon",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.highlightColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "I0ZGRUI1Mw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.session.highlightSymbol",
+    "type": 2,
+    "propertyValue": {
+      "value": "c29saWRDaXJjbGU="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.backgroundColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzAwNTg5Mg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.borderColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "I0ZGRg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.cssClass",
+    "type": 2,
+    "propertyValue": {
+      "value": "c3luY2hyb25pdGUtYnV0dG9u"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.font",
+    "type": 2,
+    "propertyValue": {
+      "value": "QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.fontColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "I0ZGRg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.label",
+    "type": 2,
+    "propertyValue": {
+      "value": "TElWRSBTVVBQT1JU"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.button.position",
+    "type": 2,
+    "propertyValue": {
+      "value": "cmlnaHQ="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.chat",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.chat.position",
+    "type": 2,
+    "propertyValue": {
+      "value": "c2U="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.dialog",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.dialog.supportDialogImage",
+    "type": 2,
+    "propertyValue": {
+      "value": "JHtzZXJ2ZXJVcmx9L2ltYWdlcy9hZ2VudC5qcGc="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.alert-info-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "I2Q5ZWRmNw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.alert-info-border",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZGFya2VuKHNwaW4oQGFsZXJ0LWluZm8tYmcsIC0xMCksIDclKQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.alert-info-text",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzNhODdhZA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.altFontFamily",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGZvbnQtZmFtaWx5LXNlcmlm"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-default-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "I2ZmZg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-default-border",
+    "type": 2,
+    "propertyValue": {
+      "value": "I2NjYw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-default-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzMzMw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-primary-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGJyYW5kLXByaW1hcnk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-primary-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "I2ZmZg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-success-bg",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGJyYW5kLXN1Y2Nlc3M="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.btn-success-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "I2ZmZg=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartActiveColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "IzlmY2IyZA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartActiveTextColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQGZsb3dDaGFydEFjdGl2ZUNvbG9yLCBibGFjaywgd2hpdGUsIDMwJSk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartCompleteColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "ZGVzYXR1cmF0ZShAZmxvd0NoYXJ0QWN0aXZlQ29sb3IsIDMwJSk="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartCompleteTextColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQGZsb3dDaGFydENvbXBsZXRlQ29sb3IsIGJsYWNrLCB3aGl0ZSwgMzAlKQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartUncompleteColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "bGlnaHRlbihncmV5c2NhbGUoQGZsb3dDaGFydEFjdGl2ZUNvbG9yKSwgNTAlKQ=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.flowChartUncompleteTextColor",
+    "type": 2,
+    "propertyValue": {
+      "value": "Y29udHJhc3QoQGZsb3dDaGFydFVuY29tcGxldGVDb2xvciwgYmxhY2ssIHdoaXRlLCAzMCUp"
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.font-family-base",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGZvbnQtZmFtaWx5LXNhbnMtc2VyaWY="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.font-size-base",
+    "type": 2,
+    "propertyValue": {
+      "value": "MTRweA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.headings-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "aW5oZXJpdA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.headings-font-family",
+    "type": 2,
+    "propertyValue": {
+      "value": "aW5oZXJpdA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.headings-font-weight",
+    "type": 2,
+    "propertyValue": {
+      "value": "Ym9sZA=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cobrowse.ui.widgets.general.text-color",
+    "type": 2,
+    "propertyValue": {
+      "value": "QGdyYXktZGFyaw=="
+    },
+    "deleted": false
+  },
+  {
+    "id": "cp.chat.fallback.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "csat.agentview.indication",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "encryption.referrer",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "enforce.jwt.validation.time.by.seconds",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "hide.isTrial",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "interaction.auth.required",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.agentList.refreshRate",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.alertOnPaste",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.block.visitor.name",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.chatInput.disableEmojisToolbar",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.chatInput.disableEmoticonsToolbar",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.chatInput.disableIconsForMessaging",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.chatInput.disableIconsForRealTimeChat",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.generate.token.timeout.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 10
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messaging.AgentManagerSubscribeToMyConversationsOnly",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messaging.OnlinePresence",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "enabled": "false",
+        "updateInterval": 60
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messaging.dataRetentionInDays",
+    "type": 1,
+    "propertyValue": {
+      "value": 14
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messaging.sdes",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messaging.showAgentGroupFilter",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.messagingAcceptButtonTimeout",
+    "type": 1,
+    "propertyValue": {
+      "value": 20
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.msgAgentList.refreshRate",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.msgHistory.refreshRate",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.profanity.regex",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.sdes",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.survey.support",
+    "type": 2,
+    "propertyValue": {
+      "value": "MULTIPLE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.visitorlist.refreshRate",
+    "type": 1,
+    "propertyValue": {
+      "value": 15
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agent.webHistory.refreshRate",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.agents.open.connections.agent.name.new.filter",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.auth.data",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.capping",
+    "type": 1,
+    "propertyValue": {
+      "value": -1
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.chat.capping",
+    "type": 1,
+    "propertyValue": {
+      "value": -1
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.content.capping",
+    "type": 1,
+    "propertyValue": {
+      "value": -1
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.controlgroup",
+    "type": 0,
+    "propertyValue": {
+      "value": 0
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.engagement.capping",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "type": 0,
+        "capping": -2
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.offsite.campaignNotApplicable.offlineSurveyId",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.offsite.campaignNotApplicable.redirectURL",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.reinviteAfterDecline",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "chat": false,
+        "content": true
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.show.history.closed.messaging",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.campaign.un.auth.messaging",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.conversions.window.size",
+    "type": 1,
+    "propertyValue": {
+      "value": 31
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.dataaccess.datatypes",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.dataaccess.encryptionPublicKey",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.dataaccess.maxFileSize",
+    "type": 1,
+    "propertyValue": {
+      "value": 1000
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.encryption.search",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.gdrs.account.delete.threshold",
+    "type": 1,
+    "propertyValue": {
+      "value": 100
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.gdrs.auto.approval.interval.days",
+    "type": 1,
+    "propertyValue": {
+      "value": 5
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.general.attribution",
+    "type": 2,
+    "propertyValue": {
+      "value": "Last"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.general.currency",
+    "type": 2,
+    "propertyValue": {
+      "value": "USD"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.general.language",
+    "type": 2,
+    "propertyValue": {
+      "value": "en-US"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.general.timezone",
+    "type": 2,
+    "propertyValue": {
+      "value": "America/New_York"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.googleanalytics.refreshtoken",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.myDetails.blockNameChange",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.pt.accountProfile",
+    "type": 2,
+    "propertyValue": {
+      "value": "defaultProfile"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.pt.autoProvisioningState",
+    "type": 2,
+    "propertyValue": {
+      "value": "NOT_RUNNING"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.pt.enabledForScoring",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.purchase.drop.repeating.order.ids",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.reporting.max.month.timeframe.available.history",
+    "type": 1,
+    "propertyValue": {
+      "value": 3
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.accountInfo",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "expirationDate": 4115480400000,
+        "maxConcurrentAgentSessions": 200,
+        "numberOfUsers": 200
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.autoMessages.source",
+    "type": 2,
+    "propertyValue": {
+      "value": "LE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.campaignsCreated",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.cannedResponses.source",
+    "type": 2,
+    "propertyValue": {
+      "value": "LE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.connectionPanelNotificationCenterVisibility",
+    "type": 2,
+    "propertyValue": {
+      "value": "none"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.connectionPanelOpenCaseVisibility",
+    "type": 2,
+    "propertyValue": {
+      "value": "admin"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.connectionPanelViewCaseVisibility",
+    "type": 2,
+    "propertyValue": {
+      "value": "admin"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.connectionPanelVisibility",
+    "type": 1,
+    "propertyValue": {
+      "value": 0
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.defaultCampaignCreated",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.defaultSupportedLanguage",
+    "type": 2,
+    "propertyValue": {
+      "value": "en-US"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.disable_cobrowse",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.interactionPlatformEnabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.ivr.expiration.seconds",
+    "type": 1,
+    "propertyValue": {
+      "value": 1740
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.lead.integrations",
+    "type": 3,
+    "propertyValue": {
+      "value": []
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.leadgenerator.config",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.leui.phase",
+    "type": 2,
+    "propertyValue": {
+      "value": "DEFAULT"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.offsite.expiration.seconds",
+    "type": 1,
+    "propertyValue": {
+      "value": 1740
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.routingSettings.source",
+    "type": 2,
+    "propertyValue": {
+      "value": "LE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.session.timeout.milliseconds",
+    "type": 2,
+    "propertyValue": {
+      "value": "28800000"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.shopify",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.skill.selection.definition",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.supportedLanguages",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "en-US"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.users.source",
+    "type": 2,
+    "propertyValue": {
+      "value": "LE"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.windowConfsCreated",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.site.zonesCreated",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.ui.customization",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "logoUrl": ""
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.unauth.mobile.refresh.token.idle.expiration",
+    "type": 1,
+    "propertyValue": {
+      "value": 2628000
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.unauth.mobile.token.expiration",
+    "type": 1,
+    "propertyValue": {
+      "value": 86400
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.unauth.refresh.token.idle.expiration",
+    "type": 1,
+    "propertyValue": {
+      "value": 2628000
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.unauth.token.expiration",
+    "type": 1,
+    "propertyValue": {
+      "value": 600
+    },
+    "deleted": false
+  },
+  {
+    "id": "le.user.login.status",
+    "type": 2,
+    "propertyValue": {
+      "value": "Online"
+    },
+    "deleted": false
+  },
+  {
+    "id": "lob.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "lptag.site.taglets.override.definitions",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "definitions": []
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "lptag.site.taglets.unsupportedBrowsers",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "4",
+        "6"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "lptag.site.tagletsRepositoryAccount",
+    "type": 2,
+    "propertyValue": {
+      "value": "repository"
+    },
+    "deleted": false
+  },
+  {
+    "id": "mcs.agentview.indication",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.awayontimeout",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.gradual.ramp.up.delay.between.rings.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 90
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.gradual.ramp.up.enable",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.gradual.ramp.up.period.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 1200
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.max.rings.per.agent",
+    "type": 1,
+    "propertyValue": {
+      "value": 3
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.response.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ACD.response.time.unit",
+    "type": 2,
+    "propertyValue": {
+      "value": "minutes"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.actionable.during.manual.sla.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.agentapp.push.for.new.conversations.agent.presence.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.agentapp.push.for.new.conversations.agent.presence.text",
+    "type": 2,
+    "propertyValue": {
+      "value": "You have a conversation waiting to be accepted"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.agentapp.push.for.new.conversations.agent.presence.time.minutes",
+    "type": 0,
+    "propertyValue": {
+      "value": 120
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.android.sdk.min.version",
+    "type": 2,
+    "propertyValue": {
+      "value": "1.0.53"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.audio.sharing.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.audio.sharing.maxMessageLength",
+    "type": 1,
+    "propertyValue": {
+      "value": 120
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.connection.nonresponsivestate.disabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.connection.notify.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 10000
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.conv.autoclose.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 7776000
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.csat.based.route.enable.for.brand",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.prioritized.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 10
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.time.prioritized.unit",
+    "type": 2,
+    "propertyValue": {
+      "value": "minutes"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.time.unit",
+    "type": 2,
+    "propertyValue": {
+      "value": "hours"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.time.urgent.unit",
+    "type": 2,
+    "propertyValue": {
+      "value": "minutes"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.response.urgent.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 5
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.default.skill.id",
+    "type": 2,
+    "propertyValue": {
+      "value": "-1"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.fallback.skill.id",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.fallback.skill.when.all.agents.are.away",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.file.sharing.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.historic.data.masking.regexp",
+    "type": 2,
+    "propertyValue": {
+      "value": "([\\W]|^)(([345]{1}\\d{3})|(6011))[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{4}([\\W]|$)|([\\W]|^)(([3]{1}\\d{3})|(2014)|(2149)|(2131)|(1800))[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{3}[\\s\\-\\.]?\\d{4}([\\W]|$)|([\\W]|^)([3]{1}\\d{2})[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{3}([\\W]|$)|([\\W]|^)([3]{1}\\d{2})[\\s\\-\\.]?\\d{3}[\\s\\-\\.]?\\d{4}[\\s\\-\\.]?\\d{3}([\\W]|$)"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ios.logs.settings",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "level": "WARNING",
+        "minLogLevel": "INFO",
+        "randomFactor": 1000,
+        "maxEvents": 50,
+        "maxPendingEventsRequests": 10
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.ios.sdk.min.version",
+    "type": 2,
+    "propertyValue": {
+      "value": "1.1.36"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.manual.shifts.management",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.max.conversions",
+    "type": 1,
+    "propertyValue": {
+      "value": 20
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.pending.agent.during.transfer.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.post.survey.autoclose.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 172800
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.pusher.notification.msg",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.pusher.rich.content.notification.msg",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.queue.state.event.producing.enable",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.rich.content.valid.urls",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "https://cdn.bgr.com",
+        "https://www.example.com",
+        "https://cdn.zeplin.io",
+        "https://cdn123.bgr.com",
+        "https://c.static-nike.com"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.routing.autoaccept",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.routing.sorting.queue.definitions",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "sortType": "S0"
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.secure.form.getForm.timeout.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 300
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.secure.form.submitForm.timeout.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 1800
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.service.protection.conv.autoclose.time",
+    "type": 1,
+    "propertyValue": {
+      "value": 1209600
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.agent.response.to.consumer.after.long.time.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.agent.response.to.consumer.after.long.time.keep.active.for.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 10
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.agent.response.to.consumer.after.long.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 7200
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.enable",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.fresh.agent.pending.time.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 180
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.manual.ettr.enable",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.manual.ettr.time.minutes",
+    "type": 1,
+    "propertyValue": {
+      "value": 30
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.max.score",
+    "type": 0,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.smart.capacity.min.score",
+    "type": 0,
+    "propertyValue": {
+      "value": 0.1
+    },
+    "deleted": false
+  },
+  {
+    "id": "messaging.transferBySkill.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.agentmanager.pass",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.agentmanager.pid",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.agentmanager.user",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.apple",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.cellcom",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.facebook",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.google",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.line",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.twilio",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.usms",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.auth.consumer.whc",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "msggw.generatedkey",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.available.slots.factor",
+    "type": 0,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.ewt.average.chat.duration.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 1200
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.ewt.max.wait.time.value.sec",
+    "type": 1,
+    "propertyValue": {
+      "value": 10800
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.multiple.ema.enabled",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.sharklet.fallback.chatDurationSec",
+    "type": 1,
+    "propertyValue": {
+      "value": 400
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.sharklet.fallback.method",
+    "type": 2,
+    "propertyValue": {
+      "value": "simpleCalculation"
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.sharklet.fallback.offsetFactor",
+    "type": 0,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "pd.sharklet.fallback.throughputFactor",
+    "type": 0,
+    "propertyValue": {
+      "value": 1
+    },
+    "deleted": false
+  },
+  {
+    "id": "reseller.attributes.name",
+    "type": 2,
+    "propertyValue": {
+      "value": ""
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.app.install.balancer.configuration",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "web": 100,
+        "ivr": 100,
+        "external": 100,
+        "msdk": 100,
+        "defaultThreshold": 50
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.ip.extraction.for.apptype",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "APP_INSTALLATION"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.max.session.count",
+    "type": 1,
+    "propertyValue": {
+      "value": 160000
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.max.session.events",
+    "type": 1,
+    "propertyValue": {
+      "value": 20010
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.max.session.noactivity.timeout.millis",
+    "type": 1,
+    "propertyValue": {
+      "value": 1800000
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.max.session.timeout.millis",
+    "type": 1,
+    "propertyValue": {
+      "value": 21600000
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.session.mark.for.deletion.on.max.events.reach",
+    "type": 2,
+    "propertyValue": {
+      "value": "true"
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.session.reuse.enable",
+    "type": 3,
+    "propertyValue": {
+      "value": [
+        "APP_INSTALLATION,MSDK,EXTERNAL,IVR"
+      ]
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.session.soft.cap.enable",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.session.soft.cap.halflife.millis",
+    "type": 1,
+    "propertyValue": {
+      "value": 60000
+    },
+    "deleted": false
+  },
+  {
+    "id": "shark.account.session.soft.cap.speed.factor",
+    "type": 0,
+    "propertyValue": {
+      "value": 0.2
+    },
+    "deleted": false
+  },
+  {
+    "id": "survey.csat.notification.config",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "types.limits.creation",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "ACWidgetObject": 25
+      }
+    },
+    "deleted": false
+  },
+  {
+    "id": "types.limits.operation",
+    "type": 4,
+    "propertyValue": {
+      "value": {}
+    },
+    "deleted": false
+  },
+  {
+    "id": "unauth.messaging.block.consumer.history",
+    "type": 2,
+    "propertyValue": {
+      "value": "false"
+    },
+    "deleted": false
+  },
+  {
+    "id": "wrap.up.time",
+    "type": 4,
+    "propertyValue": {
+      "value": {
+        "active": false,
+        "time": 60
+      }
+    },
+    "deleted": false
+  }
+]

@@ -6,6 +6,11 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //2 sums
+        int [] arrForSum = {2,5,5,11};
+        int [] res = twoSum(arrForSum, 10);
+        System.out.println("Location of 2 numbers in list is: [" + res[0] + "][" + res[1]+"]");
+
         //form largest num
         List<Integer> numList = Arrays.asList(2, 35, 23, 6, 8, 97, 81);
         formLargestNum(numList);
@@ -248,6 +253,20 @@ public class Main {
             i++;
         }
         return true;
+    }
+
+    public static int[] twoSum(int[] nums, int target) {
+        int [] result = new int[2];
+        for(int i = 0; i < nums.length-1; i++) {
+            for(int j = i+1; j < nums.length; j++) {
+                if(nums[i] + nums[j] == target) {
+                    result[0] = i;
+                    result[1] = j;
+                    return result;
+                }
+            }
+        }
+        return null;
     }
 
 

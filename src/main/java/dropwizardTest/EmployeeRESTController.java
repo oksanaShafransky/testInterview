@@ -25,7 +25,7 @@ import dropwizardTest.dao.Employee;
 @Produces(MediaType.APPLICATION_JSON)
 public class EmployeeRESTController {
 
-   /* private final Validator validator;
+   private final Validator validator;
 
     public EmployeeRESTController(Validator validator) {
         this.validator = validator;
@@ -96,5 +96,5 @@ public class EmployeeRESTController {
             return Response.ok().build();
         } else
             return Response.status(Status.NOT_FOUND).build();
-    }*/
+    }
 }

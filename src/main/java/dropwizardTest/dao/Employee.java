@@ -8,7 +8,7 @@ import org.hibernate.validator.constraints.NotBlank;
 
 public class Employee {
 
-    /*@NotNull
+    @NotNull
     private Integer id;
     @NotBlank @Length(min=2, max=255)
     private String firstName;
@@ -63,5 +63,5 @@ public class Employee {
     public String toString() {
         return "Emplyee [id=" + id + ", firstName=" + firstName + ", lastName="
                 + lastName + ", email=" + email + "]";
-    }*/
+    }
 }

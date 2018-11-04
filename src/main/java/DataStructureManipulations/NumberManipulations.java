@@ -1,10 +1,38 @@
-package numersManipulations;
+package DataStructureManipulations;
 
 import java.util.*;
 
-public class Main {
+
+/*
+FYBER:
+Interview
+
+Interviewed at Petah-Tiqva IL for Senior position. first interview with the team leader was nice , although it seemed he is only managing one person , so there was a feeling of a very non-flat organization with many managers. Second interview was with a mid-level manger , it was quite terrible he asked about architecture and design but than gave a stupid question in Java and treated it like a…
+Show More
+
+Interview Questions
+
+1. Solve the 3-Sum algorithm. you need to find in an array if 3 numbers sum up to zero.
+6 Answers
+2. Write a simple java program that does very simple RegEx parsing where you have to support two types of operations : * (STAR) : is used to match 0-Infinite characters and . (DOT) is used to match 0-1 characters. so given the string "abc" , the reg ex "*bc" / "*c" / ".bc" is true
+ */
+
+public class NumberManipulations {
 
     public static void main(String[] args) {
+
+        int num = 156;
+        for(int i = 100;i<1000;i++) {
+            if(amstrongNumber(i))
+                System.out.println("NUMBER " + i + " is AMSTRONG");
+        }
+
+        //power
+        int x=26;
+        int y=2;
+        System.out.printf("\nRECURSIVE POWER of " + x + "^" + y + ": " + power(x,y) + "\n");
+        System.out.printf("\nITERATIVE POWER of " + x + "^" + y + ": " + powerIterative(x,y) + "\n");
+        System.out.printf("\nSQUARE ROOT of " + x + " = " + squareRoot(x) + "\n");
 
         //2 sums
         int [] arrForSum = {2,5,5,11};
@@ -74,8 +102,95 @@ public class Main {
         String [] bubleSortArrayStr = {"hh","","hat","trs","av", "ab"};
         bubbleSortStr(bubleSortArrayStr);
 
+        int x1 = 3;
+        int y2 = 4;
+        System.out.println("Pow function result for x = " + x1 + " and  y " + y2 + ": " + powFunction(x1,y2) + "\n");
+
+        int [] arrM = {4,2,5,6,1};
+        System.out.println("Largest multiply of arr is: " + largestMultiplyOf3(arrM));
+    }
 
 
+    public static int largestMultiplyOf3(int [] arr){
+        int largest = 0;
+        for(int i=0;i<arr.length-2;i++){
+            int multi = arr[i]*arr[i+1]*arr[i+2];
+            if(multi%3==0 && multi>largest){
+                largest=multi;
+            }
+        }
+        return largest;
+    }
+
+    static int powFunction(int x, int y){
+        int i =0;
+        int res = 1;
+        if(x<=1) return x;
+        while(i<y){
+            res = res * x;
+            i++;
+        }
+        return res;
+    }
+
+    static boolean amstrongNumber(int number){
+        String numberStr = String.valueOf(number);
+        if(numberStr.length()==3) {
+            int  i =0;
+            int finalNumber = 0;
+            while(i<numberStr.length()) {
+                int j = Character.getNumericValue(numberStr.charAt(i));
+                finalNumber = finalNumber + (j*j*j);
+                i++;
+            }
+            if(finalNumber==number){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    static float power(float x, int y)
+    {
+        float temp;
+        if( y == 0)
+            return 1;
+        temp = power(x, y/2);
+
+        if (y%2 == 0)
+            return temp*temp;
+        else
+        {
+            if(y > 0)
+                return x * temp * temp;
+            else
+                return (temp * temp) / x;
+        }
+    }
+
+    static int powerIterative(int x, int y)
+    {
+        int res = 1;
+        int i=1;
+        while(i<=y){
+            res = res*x;
+            i++;
+        }
+        return res;
+    }
+
+    static int squareRoot(int x)
+    {
+        if(x==0 || x==1){
+            return x;
+        }
+        int res = 1;
+        int i=0;
+        while(res<x){
+            i++;
+            res = i*i;
+        }
+        return i;
     }
 
     private static void formLargestNum(List<Integer> numList) {

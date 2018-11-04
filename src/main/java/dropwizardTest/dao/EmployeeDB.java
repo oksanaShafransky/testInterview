@@ -6,7 +6,7 @@ import java.util.List;
 
 public class EmployeeDB {
 
-   /* public static HashMap<Integer, Employee> employees = new HashMap<Integer, Employee>();
+   public static HashMap<Integer, Employee> employees = new HashMap<Integer, Employee>();
     static{
         employees.put(1, new Employee(1, "Lokesh", "Gupta", "India"));
         employees.put(2, new Employee(2, "John", "Gruber", "USA"));
@@ -27,5 +27,5 @@ public class EmployeeDB {
 
     public static void removeEmployee(Integer id){
         employees.remove(id);
-    }*/
+    }
 }

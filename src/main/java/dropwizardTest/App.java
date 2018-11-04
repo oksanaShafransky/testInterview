@@ -7,7 +7,7 @@ import io.dropwizard.setup.Environment;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class App {/*extends Application<Configuration> {
+public class App extends Application<Configuration> {
     private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
 
     @Override
@@ -22,5 +22,5 @@ public class App {/*extends Application<Configuration> {
 
     public static void main(String[] args) throws Exception {
         new App().run(args);
-    }*/
+    }
 }
